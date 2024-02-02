@@ -1,4 +1,4 @@
-# discord-website-clone
+# discord-webpage-clone
 
 ## Description
 This project is a frontend clone of the Discord landing webpage. It replicates the visual design and layout of the original Discord landing page using HTML, CSS, and React. The clone aims to showcase frontend development skills by accurately reproducing the aesthetics and components of the Discord website's landing page.
