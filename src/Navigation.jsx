@@ -1,11 +1,11 @@
 
+const links = ['Download', 'Nitro', 'Discover', 'Safety', 'Support', 'Blog', 'Careers'];
 
 function Navigation() {
-    const links = ['Download', 'Nitro', 'Discover', 'Safety', 'Support', 'Blog', 'Careers'];
 
     return (
         <div className="Navigation">
-            {links.map((link) => <a className="link">{link}</a>)}
+            {links.map(link => <a className="link">{link}</a>)}
         </div>
     )
 }
